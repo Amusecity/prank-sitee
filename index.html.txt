@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Instagram Giriş</title>
+</head>
+<body style="text-align:center; margin-top:100px;">
+  <h1>Instagram Giriş Sayfası</h1>
+  <p>Lütfen kullanıcı adı ve şifrenizi girin</p>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+    <button style="font-size:20px;">Giriş Yap</button>
+  </a>
+</body>
+</html>
